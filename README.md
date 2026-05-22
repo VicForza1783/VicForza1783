@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**VicForza1783/VicForza1783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-Here are some ideas to get you started:
+📖 A propos de moi :
+- J'aime coder en :
+  ☕ Java ou POO
+  🎯 C#
+  🐍 python
+  🗄️ j'aime également utiliser SQL
+- Je m'interrese :
+  🎮 au jeu vidéo de tout type, toute période.
+  🔐 à la cybersécurité.
+  🤖 à l'IA.
+  📊 à la manipulation de base de donnée.
+- Je cherche également à découvrir d'autres domaine en informatique.
+💼 Je suis sérieux et travailleur. Je suis également très curieux et je n'hésite pas à me renseigner sur des sujets que je ne maîtrise pas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
